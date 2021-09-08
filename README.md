@@ -16,8 +16,6 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -33,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/aanacif/signup-component](https://github.com/aanacif/signup-component)
-- Live Site URL: [https://aanacif.github.io/signup-component/](https://aanacif.github.io/signup-component/)
+- Solution URL: [https://github.com/aanacif/article-preview](https://github.com/aanacif/article-preview)
+- Live Site URL: [https://aanacif.github.io/article-preview](https://aanacif.github.io/article-preview)
 
 ## My process
 
