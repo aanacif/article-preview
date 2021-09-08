@@ -1,0 +1,2 @@
+"use strict";var shareButton=document.getElementById("icons");function showTooltip(){""==shareButton.style.display||"none"==shareButton.style.display?shareButton.style.display="flex":shareButton.style.display="none"}
+//# sourceMappingURL=script.js.map
